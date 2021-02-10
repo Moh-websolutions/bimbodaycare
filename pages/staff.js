@@ -145,7 +145,7 @@ export default function Page({props}) {
               <div className="member-info d-md-flex align-items-center">
               	<div className="left-sec col-md-4">
                     <Image width={362} height={240} alt={staff.staffName} src={staff.staffImg} />
-                    <h3className="pt-2">{staff.staffName}</h3>
+                    <h3 className="pt-2">{staff.staffName}</h3>
                 </div>
                 <div className="right-sec col-md-8 text-left">
                 	<p>
