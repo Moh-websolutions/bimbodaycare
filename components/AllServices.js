@@ -5,7 +5,7 @@ import { useRouter} from 'next/router';
 
 
 const services = [
-  {
+    {
     id: "1",    
     title: "Spacious classrooms for all age groups ",
     titlefr: "Salles de classe spacieuse pour chaque group d’âge ",

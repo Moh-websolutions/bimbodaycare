@@ -106,7 +106,10 @@ function ServicesList(props) {
   
     <div className="quality__col" key={item.id}>
         <div className="quality__item" data-aos="zoom-in-right" data-aos-easing="ease-in-sine">
-          <div className="quality__icon"><div  className="quality__pic"><Image src={item.image} width={item.width} height={item.height} alt={item.title} /></div></div>
+          <div className="quality__icon">
+          <div  className="quality__pic">
+          <Image src={item.image} width={item.width} height={item.height} alt={item.title} /></div>
+          </div>
           <div className="quality__details">
             <div className="quality__category">{router.locale === "fr" ? item.titlefr  : item.title  }</div>
             <div className="quality__text">{item.description}</div>

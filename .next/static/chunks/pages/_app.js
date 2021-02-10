@@ -5,10 +5,10 @@ _N_E =
 /*!*******************!*\
   !*** ./i18n.json ***!
   \*******************/
-/*! exports provided: locales, defaultLocale, pages, default */
+/*! exports provided: locales, defaultLocale, localeDetection, pages, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"locales\":[\"en-US\",\"fr\"],\"defaultLocale\":\"en-US\",\"pages\":{\"*\":[\"common\"]}}");
+module.exports = JSON.parse("{\"locales\":[\"en-US\",\"fr\"],\"defaultLocale\":\"en-US\",\"localeDetection\":false,\"pages\":{\"*\":[\"common\"]}}");
 
 /***/ }),
 
