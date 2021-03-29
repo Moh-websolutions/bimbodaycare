@@ -10891,7 +10891,7 @@ var _next_translate_root_i18n__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE
 /* harmony import */ var next_translate_appWithI18n__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next-translate/appWithI18n */ "./node_modules/next-translate/lib/esm/appWithI18n.js");
 
 
-var _jsxFileName = "W:\\bimbo2020\\react\\bimbodaycare\\pages\\_app.js";
+var _jsxFileName = "S:\\bimbo2020\\react\\bimbodaycare\\pages\\_app.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 
@@ -10993,7 +10993,7 @@ $RefreshReg$(_c, "MyApp");
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js!./");
-module.exports = __webpack_require__(/*! W:\bimbo2020\react\bimbodaycare\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
+module.exports = __webpack_require__(/*! S:\bimbo2020\react\bimbodaycare\node_modules\next\dist\client\router.js */"./node_modules/next/dist/client/router.js");
 
 
 /***/ })
