@@ -15,6 +15,7 @@
     "next-translate": "^1.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-i18next": "^11.8.5"
+    "react-i18next": "^11.8.5",
+    "react-shuffle": "^2.1.0"
   }
 }
