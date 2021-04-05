@@ -18,8 +18,8 @@ const services = [
   
     {  
     id: "2",    
-    title: "Afterschool Program ",
-    titlefr: "Programme préscolaire",
+    title: "Preschool and afterschool services",
+    titlefr: "Services préscolaires et halte scolaire",
     description:"",
     descriptionfr:"",
     image:"/assets/img/hero/clock-big.png",
@@ -85,9 +85,9 @@ const services = [
     {    
     id:"8", 
     title: "Let's Get in Touch",
-    titlefr: "Entrons en contact",
+    titlefr: "Communiquez avec nous",
     description:"For more information about our daycare or preschool services contact us today, and feel free to call us at 506-548-8069 today!",
-    descriptionfr: "Pour plus d'informations sur nos services de garde ou préscolaires, contactez-nous dès aujourd'hui et n'hésitez pas à nous appeler au 506-548-8069 dès aujourd'hui!",
+    descriptionfr: "Contactez-nous ou appelez-nous au 506-548-8069 dès aujourd’hui pour tout renseignement concernant nos services de garderie ou de halte scolaire!",
     image:"/assets/img/hero/phone.png",
     width:"640",
     height: "398",
