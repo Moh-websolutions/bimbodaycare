@@ -83,7 +83,7 @@ const Contact = ({props}) => {
                                 <span className="contact-info__icon color-orange"><i className="fad fa-at"></i></span>
                                 <div className="media-body">
                                   <h3 className="color-orange">{t('common:email-us')}</h3>
-                                  <p><a href="mailto:garderiebimborachel@gmail.com" className="color-orange">garderiebimborachel@gmail.com</a></p>
+                                  <p><a href="mailto:info@bimbodaycare.ca" className="color-orange">info@bimbodaycare.ca</a></p>
                                 </div>
                               </div>
                               <div className="media contact-info">
