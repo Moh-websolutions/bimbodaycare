@@ -109,7 +109,7 @@ function ServicesList(props) {
           <div className="quality__icon"><div  className="quality__pic"><Image src={item.image} width={item.width} height={item.height} alt={item.title} /></div></div>
           <div className="quality__details">
             <div className="quality__category">{router.locale === "fr" ? item.titlefr  : item.title  }</div>
-            <div className="quality__text">{item.description}</div>
+            <div className="quality__text">{router.locale === "fr" ? item.descriptionfr  : item.description  }</div>
            </div>
         </div>
      </div>
