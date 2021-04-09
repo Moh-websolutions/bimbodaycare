@@ -89,8 +89,8 @@ const Contact = ({props}) => {
                               <div className="media contact-info">
                                 <span className="contact-info__icon color-green"><i className="fad fa-phone"></i></span>
                                 <div className="media-body">
-                                  <h3 className="color-green">Phone / Fax</h3>
-                                  <p><b>Phone:</b> 506-548-8069 <br/> <b>Fax:</b> 506-548-8069</p>
+                                  <h3 className="color-green">{t('common:phone-fax')}</h3>
+                                  <p><b>{t('common:phone')}:</b> 506-548-8069 <br/> <b>{t('common:fax')}:</b> 506-548-8069</p>
                                 </div>
                               </div>
 

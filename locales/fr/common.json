@@ -33,10 +33,10 @@
 	"feature-title-4": "Jeux en plein air et plus",
 
 	"about-hero-title": "Notre histoire",
-	"about-text-1": ["Garderie Bimbo Daycare Inc. Est une garderie à but non lucratif qui a ouvert en 1975, nous offrons des services de garderie de qualité, des programmes préscolaires ainsi que des services de halte scolaire aux familles de la région chaleur. Offrir un environnement pour les enfants âgés de la naissance à l’âge de douze ans à apprendre ", "Nos éducatrices ont plusieurs années expérience et répondent à toutes les exigences des normes provinciales de garderies. Nous croyons que chaque enfant est unique et nous visons de répondre aux besoins de chaque enfant, parent et de notre communauté."],
+	"about-text-1": ["Garderie Bimbo Daycare Inc. Est une garderie à but non lucratif qui a ouvert en 1975, nous offrons des services de garderie de qualité, des programmes préscolaires ainsi que des services de halte scolaire aux familles de la région chaleur. Offrir un environnement pour les enfants âgés de la naissance à l’âge de douze ans à apprendre ", "Nos éducatrices ont plusieurs années d’expérience et répondent à toutes les exigences des normes provinciales de garderies. Nous croyons que chaque enfant est unique et nous visons de répondre aux besoins de chaque enfant, parent et de notre communauté."],
 
 	"facility-hero-title": "Notre installation",
-	"facility-text-1": ["Les programmes de la garderie visent à offrir à votre enfant un milieu stimulant ou il pourrait s’amuser et découvrir, tout en étant en sécurité. Les programmes sont créés pour aider les enfants à se développer physiquement, intellectuellement et socialement. ", "Nous savons qu’avec le jeu, l’enfant peut apprendre et être préparés pour la prochaine étape, la maternelle."],
+	"facility-text-1": ["Les programmes de la garderie visent à offrir à votre enfant un milieu stimulant où il pourrait s’amuser et découvrir, tout en étant en sécurité. Les programmes sont créés pour aider les enfants à se développer physiquement, intellectuellement et socialement. ", "Nous savons qu’avec le jeu, l’enfant peut apprendre et être préparé pour la prochaine étape, la maternelle."],
 
 	"staff-hero-title":"Notre personnel clé",
 	"staff-text": "Le personnel certifié et entièrement formé de la Garderie Bimbo Daycare fait office de figures d'autorité qui guideront et instruiront doucement votre enfant à travers chaque événement quotidien, en fournissant l'encouragement et le soutien.",
@@ -53,7 +53,10 @@
 	"contact-hero-title":"Nous contacter",
 	"contact-text":"Si vous avez des questions sur l'un de nos services de garde d'enfants ou si vous souhaitez planifier un moment pour visiter notre établissement, n'hésitez pas à remplir les informations ci-dessous et quelqu'un vous contactera dès que possible.",
 	"hours-of-operation": "Heures d'ouverture",
-	"email-us": "Envoyez-nous un email",
+	"email-us": "Envoyez-nous un courriel",
+	"phone-fax": "Téléphone/Télécopieur",
+	"phone": "Téléphone",
+	"fax": "Télécopieur",
 	"enter-message": "Entrer message",
 	"enter-name": "Entrez le nom",
 	"enter-subject": "Entrer sujet",

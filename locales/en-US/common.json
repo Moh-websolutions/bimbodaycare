@@ -34,7 +34,7 @@
 	"feature-title-4": "Outdoor play, and more",
 
 	"about-hero-title": "Our History",
-	"about-text-1": ["Garderie Bimbo Daycare Inc opened as a non-profit daycare in 1975, we provide quality childcare, preschool programs as well as afterschool care to families in the chaleur region. Providing a great environment for children aged from birth to twelve years of age to learn. ", "Our educators have many years of expirence and meet all requirements in the provincial daycare standards. We understand that each child is unique and strive to meet the needs of each child, parent and our community."],
+	"about-text-1": ["Garderie Bimbo Daycare Inc opened as a non-profit daycare in 1975, we provide quality childcare, preschool programs as well as afterschool care to families in the chaleur region. Providing a great environment for children aged from birth to twelve years of age to learn. ", "Our educators have many years of experience and meet all requirements in the provincial daycare standards. We understand that each child is unique and strive to meet the needs of each child, parent and our community."],
 
 	"facility-hero-title": "Our Facility",
 	"facility-text-1": ["All programs offered are designed to offer an environment that is fun, safe and stimulating for all children. The activities are designed to help children develop physically, intellectually, and socially. ", "We know that through play children can learn and be prepared for the next step, Kindergarten. "],
@@ -43,7 +43,7 @@
 	"staff-text": "The certified and fully trained staff at Garderie Bimbo Daycare serve as authority figures who will gently guide and instruct your child through each daily event, providing encouragement and support.",
 
 	"gallery-hero-title": "Discover Bimbo Daycare",
-	"gallery-text": "Our Bathurst location provide an environment where every child feels safe and secure while they're away from home. A child is more likely to flourish when they feel that all is well in their world.",
+	"gallery-text": "Our Bathurst location provides an environment where every child feels safe and secure while they're away from home. A child is more likely to flourish when they feel that all is well in their world.",
 
 	"services-hero-title": "Our Services / Programs",
 	"services-text-1": "At Garderie Bimbo Daycare Inc., your child will feel comfortable and relaxed while under our supervision. We believe it is important to provide an environment where every child feels safe and secure while they're away from home. A child is more likely to flourish when they feel that all is well in their world.",
@@ -55,6 +55,9 @@
 	"contact-text":"If you have any questions about any of our childcare services or would like to schedule a time to take a tour of our facility, feel free to fill out the information below and someone will get in contact with you as soon as possible.",
 	"hours-of-operation": "Hours of operation",
 	"email-us": "Email Us",
+	"phone-fax": "Phone/Fax",
+	"phone": "Phone",
+	"fax": "Fax",
 	"enter-message": "Enter Message",
 	"enter-name": "Enter Name",
 	"enter-subject": "Entrer Subject",
